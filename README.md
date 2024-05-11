@@ -1,4 +1,4 @@
-# Test-2
+# Assignment
 
 
 ### Prerequisites
@@ -8,7 +8,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/vaibhxv/test-2.git
+git clone https://github.com/vaibhxv/assignment.git
 ```
 
 ### Run with yarn zero install
